@@ -6,6 +6,12 @@ public class ejercicio2 {
 
 	public static void main(String[] args) {
 		
+		/*
+		 * 
+		* @author: Roberto
+		* 
+		*/
+		
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Introduce el número 12: ");
 		int num=sc.nextInt();
